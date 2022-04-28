@@ -1,0 +1,36 @@
+https://www.fondodesolidaridadpensional.gov.co/requisitos-de-afiliacion-y-proceso-de-inscripcion.html requisitos adulto mayor
+
+AYUDAS VA IR ""
+INGRESO SOLIDARIO
+FAMILIAS EN ACCION
+ADULTO MAYOR
+JOVENES EN ACCION
+https://www.youtube.com/watch?v=E7lPFgk09ec&list=PL_Wdx4nuuZgqU0Gyj_oPRpDm3UsZ-0xHw&index=24 viendo la pagina
+https://www.youtube.com/watch?v=JTSkM6Zqrc0
+
+
+https://canaltrece.com.co/noticias/ingreso-solidario-dps-beneficiarios-consultar-pagina-prosperidad-social/ NOTICIA PARA LA PAGINA
+CONSULTE 
+SISBEN 
+REGISTRADURIA
+ .navd ul li:hover {
+	background: #DE423A; 
+
+}
+
+.navd ul li {
+	display:none;
+	position: relative;
+	min-width: 140px;
+
+}
+.navd li a{
+	width: 100%;
+	position: relative;
+	z-index: 2000;
+	padding: 2px;
+}	
+
+.menu li:hover .navd {
+	display: block;
+}
