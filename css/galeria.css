@@ -71,6 +71,7 @@
 
 }
 
+
 .submenu{
 	height: 0;
 	overflow: hidden;
@@ -80,6 +81,7 @@
 	background: #333;
 	
 }
+
 
 @media(min-width: 1024px){
 	.nav-bar{

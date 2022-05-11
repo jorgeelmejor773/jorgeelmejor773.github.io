@@ -207,6 +207,10 @@ header nav ul {
 .column__title {
 	font-size:1.3em;
 }
+.politica {
+	text-decoration: none;
+	color: white;
+}
 .main__about__description .column:nth-child(2){
 	padding: 10px;
 }
@@ -271,6 +275,19 @@ display: block;
 
 /*----------Estilos del footer ----------*/
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 .main-footer {
 	background: #222;
 	color: white;
@@ -288,6 +305,14 @@ display: block;
 .main-footer [ class*="icon-"] {
 	color: white;
 	text-decoration: none;
+
+}
+.main-footer [ class*="icon-1"] {
+	color: white;
+	text-decoration: none;
+	font-size: 15px;
+	padding: 5px;
+	margin-top: 35px;
 
 }
 .main-footer [ class*="icon-"]:before {

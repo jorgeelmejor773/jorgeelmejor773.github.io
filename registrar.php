@@ -1,4 +1,5 @@
 <?php
+Sdestino ="adelejuan152@gmail.com"
 $conexion = mysqli_connect("localhost", "root", "", "bd_contacto");  
 //include 'cn.php';
 	// recuperar las variables
@@ -22,5 +23,8 @@ if (!$resutado){
 }
 //cerrar conexion
 mysqli_close($conexion);
+$contenido = "Nombre: " . $nombre . "\nCorreo:" . "\$Telefono: " .$telefono . "\nMensaje: " . $mensaje;
+mail($destino, "Contacto", $contenido);
+header("location:contacto.html");
 
 ?>
